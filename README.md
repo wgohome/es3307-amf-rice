@@ -12,4 +12,4 @@ A [sildes deck](https://github.com/wirriamm/es3307-amf-rice/blob/bfa969d8c9c9b18
 
 Data was generated based on the script in `seed.R`, and the data used for analysis is in `rice.csv`. 
 
-The RMarkdown file is also available for detailed steps of the analysis process.
+The RMarkdown file is also available [here](https://wirriamm.github.io/es3307-amf-rice/es3307_project_data_analysis.html) for detailed steps of the analysis process.
